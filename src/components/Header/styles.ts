@@ -42,8 +42,8 @@ export const HeaderContainer = styled.header`
   }
 
   @media ${device.mobileM} {
-    padding: 2rem 0rem 2rem 2rem;
-    min-width: 375px;
+    padding: 2rem 0rem 2rem 6rem;
+    min-width: 425px;
   }
 `
 
